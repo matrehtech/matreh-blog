@@ -1,0 +1,14 @@
+{
+  "name": "demo1",
+  "version": "1.0.0",
+  "description": "Lambda, S3 and DynamoDb example in NodeJs",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MatrehTech",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.26.0"
+  }
+}
